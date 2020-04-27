@@ -1,6 +1,9 @@
 # Kakuro
 ### Matt Iandoli
 
+## What is Kakuro?
+https://en.wikipedia.org/wiki/Kakuro
+
 ## Goal
 Create a program to play Kakuro.
 
