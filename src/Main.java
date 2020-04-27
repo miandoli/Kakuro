@@ -1,5 +1,9 @@
+import game.Board;
+import game.BoardBuilder;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Kakuro");
+        Board board = BoardBuilder.createBoard("/resources/large-board.json");
+        System.out.println(board);
     }
 }

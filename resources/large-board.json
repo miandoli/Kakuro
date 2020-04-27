@@ -1,4 +1,4 @@
-{"name": "Large Board", "rows": [
+{"name": "Large Board", "height": 14, "width": 14, "rows": [
   {"row": [
     {"type": "EMPTY"},
     {"type": "CONSTRAINT", "down": 12},
